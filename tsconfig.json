@@ -13,7 +13,8 @@
       "removeComments": true,
       "paths": {
         "@backend/*": ["./apps/jot-backend/src/*"],
-        "@frontend/*": ["./apps/jot-frontend/*"]
+        "@frontend/*": ["./apps/jot-frontend/*"],
+        "@shared/*": ["./apps/jot-shared/*"]
       }
     }
   }
